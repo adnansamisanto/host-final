@@ -48,7 +48,7 @@ marquee {
     position: absolute;
     width: 10px;
     height: 10px;
-    background-color: yallow;
+    background-color: yellow;
     border-radius: 50%;
     pointer-events: none;
     opacity: 0.8;
