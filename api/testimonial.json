@@ -1,0 +1,17 @@
+[
+    {
+        "name": "John Doe",
+        "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "feedback": "This company provided excellent services and I highly recommend them!"
+    },
+    {
+        "name": "Jane Smith",
+        "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "feedback": "Great experience! They were very professional and exceeded my expectations."
+    },
+    {
+        "name": "Alex Johnson",
+        "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "feedback": "Amazing work! I am very satisfied with the results."
+    }
+]

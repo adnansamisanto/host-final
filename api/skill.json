@@ -1,0 +1,34 @@
+[
+    {
+        "name": "On Page SEO",
+        "percentage": 80
+    },
+    {
+        "name": "Off Page SEO",
+        "percentage": 60
+    },
+    {
+        "name": "Content Creation",
+        "percentage": 90
+    },
+    {
+        "name": "Keyword Research Service",
+        "percentage": 70
+    },
+    {
+        "name": "google ads",
+        "percentage": 75
+    },
+    {
+        "name": "Ecommerce SEO",
+        "percentage": 85
+    },
+    {
+        "name": "International SEO",
+        "percentage": 95
+    },
+    {
+        "name": "Social Media Marketing",
+        "percentage": 90
+    }
+]

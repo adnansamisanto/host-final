@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dk3yoqkvd/image/upload/v1725039870/Untitled_design_xygmbz.png",
+        "title": "My Work",
+        "description": "before and after SEO"
+    },
+    {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dk3yoqkvd/image/upload/v1725039870/Untitled_design_xygmbz.png",
+        "title": "My Work",
+        "description": "This is a description of project two."
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dk3yoqkvd/image/upload/v1725039870/Untitled_design_xygmbz.png",
+        "title": "My Work",
+        "description": "This is a description of project three."
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dk3yoqkvd/image/upload/v1725039870/Untitled_design_xygmbz.png",
+        "title": "My Worke",
+        "description": "This is a description of project three."
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dk3yoqkvd/image/upload/v1725039870/Untitled_design_xygmbz.png",
+        "title": "My Work",
+        "description": "This is a description of project three."
+    }
+]
